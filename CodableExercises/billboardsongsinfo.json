@@ -1,0 +1,758 @@
+[
+ {
+ "song_id": "1023",
+ "song_name": "The Sound Of Music",
+ "artist_id": "328327",
+ "display_artist": "Patti Page",
+ "spotify_id": "7IiQlcsDg0wGzfdS8MJVmx"
+ },
+ {
+ "song_id": "2052",
+ "song_name": "Music, Music, Music",
+ "artist_id": "419080",
+ "display_artist": "The Sensations featuring Yvonne",
+ "spotify_id": "1CPac7GViwpMonc9nQW0sH"
+ },
+ {
+ "song_id": "2747",
+ "song_name": "Stop The Music",
+ "artist_id": "419104",
+ "display_artist": "The Shirelles",
+ "spotify_id": "00TRmggk8EIGVfkWZ9TLwC"
+ },
+ {
+ "song_id": "3357",
+ "song_name": "Make The Music Play",
+ "artist_id": "300972",
+ "display_artist": "Dionne Warwick",
+ "spotify_id": "5BWoQcZfTGlBX0QXLjl06o"
+ },
+ {
+ "song_id": "4187",
+ "song_name": "Up Above My Head (I Hear Music In The Air)",
+ "artist_id": null,
+ "display_artist": "Al (He's the King) Hirt",
+ "spotify_id": null
+ },
+ {
+ "song_id": "4794",
+ "song_name": "I'll Take You Where The Music's Playing",
+ "artist_id": "402125",
+ "display_artist": "The Drifters",
+ "spotify_id": "40N0Wizb2BANJZTRZ4oivr"
+ },
+ {
+ "song_id": "5046",
+ "song_name": "Good Time Music",
+ "artist_id": "383731",
+ "display_artist": "The Beau Brummels",
+ "spotify_id": "05ZcnxqnYi9iyFhRvgLQGC"
+ },
+ {
+ "song_id": "5665",
+ "song_name": "I Can Hear Music",
+ "artist_id": "419010",
+ "display_artist": "The Ronettes Featuring Veronica",
+ "spotify_id": "1Qf3si9AhOhAgYkF1md0FB"
+ },
+ {
+ "song_id": "5779",
+ "song_name": "Music To Watch Girls By",
+ "artist_id": "293203",
+ "display_artist": "Bob Crewe Generation",
+ "spotify_id": null
+ },
+ {
+ "song_id": "5902",
+ "song_name": "Sweet Soul Music",
+ "artist_id": "279995",
+ "display_artist": "Arthur Conley",
+ "spotify_id": "0pvA063uNyGQFp7DNtmk0P"
+ },
+ {
+ "song_id": "5933",
+ "song_name": "Music To Watch Girls By",
+ "artist_id": "1482828",
+ "display_artist": "Andy Williams",
+ "spotify_id": "0sAL42YNCuQSnYNLejfooF"
+ },
+ {
+ "song_id": "5990",
+ "song_name": "Melancholy Music Man",
+ "artist_id": "418985",
+ "display_artist": "The Righteous Brothers",
+ "spotify_id": "1byNQfcvDyC851g5MSW0N0"
+ },
+ {
+ "song_id": "6244",
+ "song_name": "I Dig Rock And Roll Music",
+ "artist_id": "331058",
+ "display_artist": "Peter, Paul & Mary",
+ "spotify_id": "5pDM1xfBg3IL1yMvroLW88"
+ },
+ {
+ "song_id": "6582",
+ "song_name": "Dance To The Music",
+ "artist_id": "279607",
+ "display_artist": "Sly & The Family Stone",
+ "spotify_id": "6q701mead1QEHZdRiTsGCe"
+ },
+ {
+ "song_id": "6611",
+ "song_name": "Music Music Music",
+ "artist_id": "412772",
+ "display_artist": "The Happenings",
+ "spotify_id": "0dcjqMoZ9J3k2gjODLlbin"
+ },
+ {
+ "song_id": "6722",
+ "song_name": "Baby Make Your Own Sweet Music",
+ "artist_id": "304283",
+ "display_artist": "Jay And The Techniques",
+ "spotify_id": "18oX158s1ny8C4Tk7Vcm6l"
+ },
+ {
+ "song_id": "6922",
+ "song_name": "I Can't Dance To That Music You're Playin'",
+ "artist_id": "309711",
+ "display_artist": "Martha Reeves & The Vandellas",
+ "spotify_id": "3re2GxjnWEhou2AMmbyL0n"
+ },
+ {
+ "song_id": "7222",
+ "song_name": "Bubble Gum Music",
+ "artist_id": null,
+ "display_artist": "Rock & Roll Double Bubble",
+ "spotify_id": null
+ },
+ {
+ "song_id": "7315",
+ "song_name": "I Can Hear Music",
+ "artist_id": "383448",
+ "display_artist": "The Beach Boys",
+ "spotify_id": "5XscVpcT7AVZI98fNthxP0"
+ },
+ {
+ "song_id": "7730",
+ "song_name": "Make Your Own Kind Of Music",
+ "artist_id": null,
+ "display_artist": "Mama Cass Elliot",
+ "spotify_id": "4ZaAmweDaiOpbkLPty81Zw"
+ },
+ {
+ "song_id": "7861",
+ "song_name": "A World Without Music",
+ "artist_id": "279853",
+ "display_artist": "Archie Bell & The Drells",
+ "spotify_id": "6cEfNnApZLeaYFUjHgpl4P"
+ },
+ {
+ "song_id": "7872",
+ "song_name": "Theme Music For The Film 2001 A Space Odyssey from Also Sprach Zarathustr",
+ "artist_id": null,
+ "display_artist": "Berlin Philharmonic",
+ "spotify_id": null
+ },
+ {
+ "song_id": "7978",
+ "song_name": "Add Some Music To Your Day",
+ "artist_id": "383448",
+ "display_artist": "The Beach Boys",
+ "spotify_id": "4sx0NksTMej4S8REQTlTQq"
+ },
+ {
+ "song_id": "8065",
+ "song_name": "Don't Let The Music Slip Away",
+ "artist_id": "279853",
+ "display_artist": "Archie Bell & The Drells",
+ "spotify_id": "1NyYgY2eqKQWJJrnp5kgPW"
+ },
+ {
+ "song_id": "8163",
+ "song_name": "Move Me, O Wondrous Music",
+ "artist_id": "418941",
+ "display_artist": "The Ray Charles Singers",
+ "spotify_id": null
+ },
+ {
+ "song_id": "8197",
+ "song_name": "Let The Music Take Your Mind",
+ "artist_id": "306022",
+ "display_artist": "Kool & The Gang",
+ "spotify_id": "1DTb2Ud41fTwh8F5smSt6J"
+ },
+ {
+ "song_id": "8311",
+ "song_name": "We Can Make Music",
+ "artist_id": "430155",
+ "display_artist": "Tommy Roe",
+ "spotify_id": "1Z5lpEkOOO1ggtEAP6Sg20"
+ },
+ {
+ "song_id": "8482",
+ "song_name": "They Can't Take Away Our Music",
+ "artist_id": "301803",
+ "display_artist": "Eric Burdon And War",
+ "spotify_id": "72Oj9uA1ZjBHmitxpZopFB"
+ },
+ {
+ "song_id": "8686",
+ "song_name": "Funky Music Sho Nuff Turns Me On",
+ "artist_id": "301481",
+ "display_artist": "Edwin Starr",
+ "spotify_id": "2Iz3Ybr98YYqvgn2bmNJ6O"
+ },
+ {
+ "song_id": "8705",
+ "song_name": "Music Is Love",
+ "artist_id": "1489359",
+ "display_artist": "David Crosby",
+ "spotify_id": "0O87QQVWgCkkXAfrhsal55"
+ },
+ {
+ "song_id": "8862",
+ "song_name": "All Day Music",
+ "artist_id": "277825",
+ "display_artist": "War",
+ "spotify_id": "1NUXFDG76ES8oMQ6C5TfiH"
+ },
+ {
+ "song_id": "9121",
+ "song_name": "Footstompin' Music",
+ "artist_id": "303074",
+ "display_artist": "Grand Funk Railroad",
+ "spotify_id": "2Htzo9H8K5Kjf6tBoEUVS0"
+ },
+ {
+ "song_id": "9127",
+ "song_name": "Music From Across The Way",
+ "artist_id": "304114",
+ "display_artist": "James Last",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9274",
+ "song_name": "Amerikan Music",
+ "artist_id": "280559",
+ "display_artist": "Steve Alaimo",
+ "spotify_id": "5GWRO1zZH7xiA1uzWdw2ex"
+ },
+ {
+ "song_id": "9376",
+ "song_name": "I Believe In Music",
+ "artist_id": "276286",
+ "display_artist": "Gallery",
+ "spotify_id": "6mZHJb11sisMakWnLWF8KV"
+ },
+ {
+ "song_id": "9403",
+ "song_name": "Listen To The Music",
+ "artist_id": "401539",
+ "display_artist": "The Doobie Brothers",
+ "spotify_id": "7MkV5KSkh8ZZUl8KeDXAfi"
+ },
+ {
+ "song_id": "9429",
+ "song_name": "I'll Make You Music",
+ "artist_id": "281556",
+ "display_artist": "Beverly Bremers",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9452",
+ "song_name": "Sing A Song/Make Your Own Kind Of Music",
+ "artist_id": "280667",
+ "display_artist": "Barbra Streisand",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9644",
+ "song_name": "Love Music",
+ "artist_id": "277357",
+ "display_artist": "The Raiders",
+ "spotify_id": "69VoDpc3VunvHrY3wWByi5"
+ },
+ {
+ "song_id": "9708",
+ "song_name": "Dancing To Your Music",
+ "artist_id": "279853",
+ "display_artist": "Archie Bell & The Drells",
+ "spotify_id": null
+ },
+ {
+ "song_id": "9770",
+ "song_name": "Music Everywhere",
+ "artist_id": null,
+ "display_artist": "Tufano & Giammarese",
+ "spotify_id": "16RNb8fJP089DHGzXYZs6t"
+ },
+ {
+ "song_id": "9786",
+ "song_name": "Together We Can Make Such Sweet Music",
+ "artist_id": "419176",
+ "display_artist": "The Spinners",
+ "spotify_id": "57fm08bWhp8idklEXgXcc2"
+ },
+ {
+ "song_id": "10019",
+ "song_name": "My Music",
+ "artist_id": "307733",
+ "display_artist": "Loggins & Messina",
+ "spotify_id": "5871Of6ieAjfl6eMH0doXO"
+ },
+ {
+ "song_id": "10182",
+ "song_name": "Music Eyes",
+ "artist_id": "303376",
+ "display_artist": "Heartsfield",
+ "spotify_id": "35UA3bpkvMZiteQPPR9MTC"
+ },
+ {
+ "song_id": "10438",
+ "song_name": "I've Got The Music In Me",
+ "artist_id": "305843",
+ "display_artist": "The Kiki Dee Band",
+ "spotify_id": "148wRodgklV4oYyXcX1Bkg"
+ },
+ {
+ "song_id": "10765",
+ "song_name": "Let There Be Music",
+ "artist_id": "318475",
+ "display_artist": "Orleans",
+ "spotify_id": "007ORKgtPNwbGsB0cp4hVS"
+ },
+ {
+ "song_id": "10862",
+ "song_name": "That's When The Music Takes Me",
+ "artist_id": "312098",
+ "display_artist": "Neil Sedaka",
+ "spotify_id": "60rvUJfpmpNzeGyndetXx8"
+ },
+ {
+ "song_id": "10955",
+ "song_name": "Music In My Bones",
+ "artist_id": "304842",
+ "display_artist": "Joe Simon",
+ "spotify_id": "2bZpBcP0nDiegGp2r6Pgt1"
+ },
+ {
+ "song_id": "10982",
+ "song_name": "Party Music",
+ "artist_id": "327879",
+ "display_artist": "Pat Lundi",
+ "spotify_id": null
+ },
+ {
+ "song_id": "10988",
+ "song_name": "Foot Stompin Music",
+ "artist_id": "276357",
+ "display_artist": "Hamilton Bohannon",
+ "spotify_id": null
+ },
+ {
+ "song_id": "11047",
+ "song_name": "The Music Never Stopped",
+ "artist_id": "303090",
+ "display_artist": "The Grateful Dead",
+ "spotify_id": "5hRUPmgL0a8DhERk8TEJcZ"
+ },
+ {
+ "song_id": "11053",
+ "song_name": "I Love Music (Part 1)",
+ "artist_id": "418744",
+ "display_artist": "The O'Jays",
+ "spotify_id": null
+ },
+ {
+ "song_id": "11140",
+ "song_name": "Let The Music Play",
+ "artist_id": "280728",
+ "display_artist": "Barry White",
+ "spotify_id": "4R7C5Ax1qI6SwSp5RTfB1m"
+ },
+ {
+ "song_id": "11247",
+ "song_name": "Happy Music",
+ "artist_id": "385378",
+ "display_artist": "The Blackbyrds",
+ "spotify_id": "6xxqUx9XkeyqgRhskfvIh1"
+ },
+ {
+ "song_id": "11274",
+ "song_name": "There Won't Be No Country Music (There Won't Be No Rock 'N' Roll)",
+ "artist_id": "275714",
+ "display_artist": "C.W. McCall",
+ "spotify_id": "2fI2sJoqmftnGJi5tC1pyT"
+ },
+ {
+ "song_id": "11347",
+ "song_name": "Music",
+ "artist_id": "304984",
+ "display_artist": "John Miles",
+ "spotify_id": "1Wh3Fz2LncJ1rabaYFJY8h"
+ },
+ {
+ "song_id": "11374",
+ "song_name": "Rock And Roll Music",
+ "artist_id": "383448",
+ "display_artist": "The Beach Boys",
+ "spotify_id": "0qbVccbQLEMbfJcI5wNLTJ"
+ },
+ {
+ "song_id": "11401",
+ "song_name": "Play That Funky Music",
+ "artist_id": "431348",
+ "display_artist": "Wild Cherry",
+ "spotify_id": "0D7L4pBEGv8ni1cRfaTdMJ"
+ },
+ {
+ "song_id": "11449",
+ "song_name": "Rocky Mountain Music",
+ "artist_id": "301424",
+ "display_artist": "Eddie Rabbitt",
+ "spotify_id": "3373VKGKgKdlBHccBgh645"
+ },
+ {
+ "song_id": "11464",
+ "song_name": "I Can't Hear You No More/Music Is My Life",
+ "artist_id": "303416",
+ "display_artist": "Helen Reddy",
+ "spotify_id": null
+ },
+ {
+ "song_id": "11513",
+ "song_name": "Sweet Summer Music",
+ "artist_id": "280197",
+ "display_artist": "Attitudes",
+ "spotify_id": null
+ },
+ {
+ "song_id": "11516",
+ "song_name": "Message In Our Music",
+ "artist_id": "418744",
+ "display_artist": "The O'Jays",
+ "spotify_id": "1lYCmnucH0yo2XGzd2h57r"
+ },
+ {
+ "song_id": "11582",
+ "song_name": "Don't Take Away The Music",
+ "artist_id": "370877",
+ "display_artist": "Tavares",
+ "spotify_id": "0V4pWwsMNJYC6K8TZV3CWT"
+ },
+ {
+ "song_id": "11728",
+ "song_name": "Welcome To Our World (Of Merry Music)",
+ "artist_id": "309905",
+ "display_artist": "Mass Production",
+ "spotify_id": "6yXGFUSxPlh6a9m66wA87H"
+ },
+ {
+ "song_id": "11908",
+ "song_name": "Swayin' To The Music (slow Dancin')",
+ "artist_id": "305097",
+ "display_artist": "Johnny Rivers",
+ "spotify_id": "6DPu98NjYnuvG2o0Lb8A7c"
+ },
+ {
+ "song_id": "12121",
+ "song_name": "Sweet Music Man",
+ "artist_id": "305733",
+ "display_artist": "Kenny Rogers",
+ "spotify_id": "4lfpvo6ytchSB28HoE0JYb"
+ },
+ {
+ "song_id": "12196",
+ "song_name": "I Love My Music",
+ "artist_id": "431348",
+ "display_artist": "Wild Cherry",
+ "spotify_id": "7KHriXtGqZS83iUWwgbyss"
+ },
+ {
+ "song_id": "12234",
+ "song_name": "Music, Harmony And Rhythm",
+ "artist_id": "297702",
+ "display_artist": "Brooklyn Dreams",
+ "spotify_id": "03u9QGWCPMXcGtfvy9Tj1H"
+ },
+ {
+ "song_id": "12603",
+ "song_name": "Music Box Dancer",
+ "artist_id": "302376",
+ "display_artist": "Frank Mills",
+ "spotify_id": "4zvcdfyrGUGgJRsgiCJlVX"
+ },
+ {
+ "song_id": "12743",
+ "song_name": "My Love Is Music",
+ "artist_id": "1539540",
+ "display_artist": "Space",
+ "spotify_id": "4zPXAni0rNhKZSZ945V82p"
+ },
+ {
+ "song_id": "12773",
+ "song_name": "Music Box",
+ "artist_id": "301951",
+ "display_artist": "Evelyn Champagne King",
+ "spotify_id": "2xGCOSfy4DzOaiQhPXIX6T"
+ },
+ {
+ "song_id": "13536",
+ "song_name": "Don't Stop The Music",
+ "artist_id": "431591",
+ "display_artist": "Yarbrough & Peoples",
+ "spotify_id": "0DVevhcLPiHoLaVyl6dSGr"
+ },
+ {
+ "song_id": "14125",
+ "song_name": "American Music",
+ "artist_id": "418857",
+ "display_artist": "The Pointer Sisters",
+ "spotify_id": "5pIvACLqNYEOGq2nBaVR6F"
+ },
+ {
+ "song_id": "14490",
+ "song_name": "How Do You Keep The Music Playing",
+ "artist_id": null,
+ "display_artist": "James Ingram And Patti Austin",
+ "spotify_id": null
+ },
+ {
+ "song_id": "14727",
+ "song_name": "Let The Music Play",
+ "artist_id": "1496652",
+ "display_artist": "Shannon",
+ "spotify_id": "5RgGHpa9S3txqJTxyRChx4"
+ },
+ {
+ "song_id": "14943",
+ "song_name": "Music Time",
+ "artist_id": "280898",
+ "display_artist": "Styx",
+ "spotify_id": "4tj1w7zjl2meQFYud0JdZA"
+ },
+ {
+ "song_id": "15951",
+ "song_name": "Good Music",
+ "artist_id": "304757",
+ "display_artist": "Joan Jett And The Blackhearts",
+ "spotify_id": "1uizH33y71PDnU3vjTwWjL"
+ },
+ {
+ "song_id": "16569",
+ "song_name": "Play That Funky Music",
+ "artist_id": "369189",
+ "display_artist": "Roxanne",
+ "spotify_id": "7iYRJw4gh7e8YjTHb2DZOb"
+ },
+ {
+ "song_id": "17649",
+ "song_name": "Play That Funky Music",
+ "artist_id": "277734",
+ "display_artist": "Vanilla Ice",
+ "spotify_id": "1Ezs8eYxuZjhlgyoI1Bo76"
+ },
+ {
+ "song_id": "17909",
+ "song_name": "Face The Music",
+ "artist_id": "277294",
+ "display_artist": "RTZ",
+ "spotify_id": null
+ },
+ {
+ "song_id": "17941",
+ "song_name": "Set The Night To Music",
+ "artist_id": null,
+ "display_artist": "Roberta Flack With Maxi Priest",
+ "spotify_id": "32jYppBJlMiUDUAwd0yHnr"
+ },
+ {
+ "song_id": "18778",
+ "song_name": "I Love Music (From \"Carlito's Way\")",
+ "artist_id": "369234",
+ "display_artist": "Rozalla",
+ "spotify_id": "7bf3WkBlgMvE2n0F96LQja"
+ },
+ {
+ "song_id": "18791",
+ "song_name": "I Love Music (From \"Carlito s Way\")",
+ "artist_id": "369234",
+ "display_artist": "Rozalla",
+ "spotify_id": "7bf3WkBlgMvE2n0F96LQja"
+ },
+ {
+ "song_id": "19570",
+ "song_name": "Feel The Music",
+ "artist_id": "340640",
+ "display_artist": "Planet Soul Featuring Brenda Dee",
+ "spotify_id": null
+ },
+ {
+ "song_id": "19709",
+ "song_name": "Music Makes Me High",
+ "artist_id": "418543",
+ "display_artist": "Lost Boyz",
+ "spotify_id": "7MAUQy99aM2AutCLYPj2Cb"
+ },
+ {
+ "song_id": "20128",
+ "song_name": "DJ Keep Playin' (Get Your Music On)",
+ "artist_id": "431731",
+ "display_artist": "Yvette Michele",
+ "spotify_id": null
+ },
+ {
+ "song_id": "20130",
+ "song_name": "Don't Stop The Music",
+ "artist_id": "341662",
+ "display_artist": "Playa",
+ "spotify_id": null
+ },
+ {
+ "song_id": "20159",
+ "song_name": "Man Behind The Music",
+ "artist_id": "277244",
+ "display_artist": "Queen Pen Featuring Teddy Riley",
+ "spotify_id": "2Vqb1abQCEt9LGmU300JRq"
+ },
+ {
+ "song_id": "20466",
+ "song_name": "Music Sounds Better With You",
+ "artist_id": "280347",
+ "display_artist": "Stardust",
+ "spotify_id": "0a53p8UzpQD0uW1hFUB4oF"
+ },
+ {
+ "song_id": "20492",
+ "song_name": "Let The Music Heal Your Soul",
+ "artist_id": "297089",
+ "display_artist": "BRAVO All Stars",
+ "spotify_id": null
+ },
+ {
+ "song_id": "20805",
+ "song_name": "Music Of My Heart",
+ "artist_id": null,
+ "display_artist": "N Sync",
+ "spotify_id": null
+ },
+ {
+ "song_id": "21125",
+ "song_name": "Music",
+ "artist_id": "308786",
+ "display_artist": "Madonna",
+ "spotify_id": "27cXevtj5VflsCUAZwr9eI"
+ },
+ {
+ "song_id": "21394",
+ "song_name": "Music",
+ "artist_id": "301838",
+ "display_artist": "Erick Sermon Featuring Marvin Gaye",
+ "spotify_id": "2g4SumkFZpHOypfF5xng9Z"
+ },
+ {
+ "song_id": "22121",
+ "song_name": "Me Against The Music",
+ "artist_id": "297529",
+ "display_artist": "Britney Spears Featuring Madonna",
+ "spotify_id": "7peLtNQr88aQm6Vy3Heb50"
+ },
+ {
+ "song_id": "23457",
+ "song_name": "You Are The Music In Me",
+ "artist_id": null,
+ "display_artist": "Zac Efron And Vanessa Anne Hudgens",
+ "spotify_id": null
+ },
+ {
+ "song_id": "23535",
+ "song_name": "Music Is My Hot Hot Sex",
+ "artist_id": "275736",
+ "display_artist": "CSS",
+ "spotify_id": "14xE814jOiQJiUQh2gB55S"
+ },
+ {
+ "song_id": "23549",
+ "song_name": "Don't Stop The Music",
+ "artist_id": "365068",
+ "display_artist": "Rihanna",
+ "spotify_id": "0ByMNEPAPpOR5H69DVrTNy"
+ },
+ {
+ "song_id": "23743",
+ "song_name": "The Music Of The Night",
+ "artist_id": "300419",
+ "display_artist": "David Cook",
+ "spotify_id": null
+ },
+ {
+ "song_id": "23776",
+ "song_name": "Play My Music",
+ "artist_id": "305153",
+ "display_artist": "Jonas Brothers",
+ "spotify_id": "5MTQbjkMmE6WsDQ8JlyEVo"
+ },
+ {
+ "song_id": "24120",
+ "song_name": "Maybach Music 2",
+ "artist_id": "365033",
+ "display_artist": "Rick Ross Featuring Kanye West, T-Pain, Lil' Wayne",
+ "spotify_id": null
+ },
+ {
+ "song_id": "24136",
+ "song_name": "I'm Just Here For The Music",
+ "artist_id": "328428",
+ "display_artist": "Paula Abdul",
+ "spotify_id": "0B8yh3jfMdQM4Xtfidm2RC"
+ },
+ {
+ "song_id": "24432",
+ "song_name": "Music Box",
+ "artist_id": "301722",
+ "display_artist": "Eminem",
+ "spotify_id": "1PokNDiTBQZgXci6rn2BVE"
+ },
+ {
+ "song_id": "24692",
+ "song_name": "Aston Martin Music",
+ "artist_id": "365033",
+ "display_artist": "Rick Ross Featuring Drake & Chrisette Michele",
+ "spotify_id": "5W7xC99N2Zzfh69r7I7zWK"
+ },
+ {
+ "song_id": "24767",
+ "song_name": "Me Against The Music",
+ "artist_id": null,
+ "display_artist": "Glee Cast",
+ "spotify_id": "07DXC9tg5mySIQfRoVHYmI"
+ },
+ {
+ "song_id": "24902",
+ "song_name": "This Is Country Music",
+ "artist_id": "297053",
+ "display_artist": "Brad Paisley",
+ "spotify_id": "6Ray43gNA6LZxareyESwNk"
+ },
+ {
+ "song_id": "25428",
+ "song_name": "Turn Up The Music",
+ "artist_id": "1486846",
+ "display_artist": "Chris Brown",
+ "spotify_id": "0UlHiqi7seV02XNHLMtfGK"
+ },
+ {
+ "song_id": "26032",
+ "song_name": "Pound Cake / Paris Morton Music 2",
+ "artist_id": "301284",
+ "display_artist": "Drake Featuring Jay Z",
+ "spotify_id": "1HDaPtZuixue2q6VGNRdVO"
+ },
+ {
+ "song_id": "26183",
+ "song_name": "Beat Of The Music",
+ "artist_id": "297124",
+ "display_artist": "Brett Eldredge",
+ "spotify_id": "3un2KQUaQ2brEpd8dK93wI"
+ }
+ ]
